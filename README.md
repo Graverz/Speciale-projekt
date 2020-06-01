@@ -1,5 +1,5 @@
-# Speciale-projekt
-En undersøgelse af de økonomiske cyklusser i en dansk kontekst
+# Specialeprojekt: Den finansielle cyklus og de realøkonomiske effekter
+Nøgleord: Finansiel cyklus, Makroprudentiel politik og SFC-model
 
 Dette rum indeholder de nødvendige scripts samt datasæt for at reproducere beregningerne, graferne samt andre illustationer fra det afleveret speciale. 
 
